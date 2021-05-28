@@ -1,4 +1,5 @@
 # Program make a simple calculator
+# Refer to https://www.programiz.com/python-programming/examples/calculator
 
 # This function adds two numbers
 def add(x, y):
