@@ -19,14 +19,12 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
     return x / y
-<<<<<<< HEAD
 
 #fffffsdsds:
 
 #fffff
-=======
+
 #fffffsdsds:
->>>>>>> 2c2d648 (push test)
 
 print("Select operation.")
 print("1.Add")
