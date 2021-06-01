@@ -24,7 +24,7 @@ def divide(x, y):
 
 #fffff
 
-#fffffsdsds:
+#fffffs
 
 print("Select operation.")
 print("1.Add")
